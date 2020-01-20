@@ -1,2 +1,2 @@
 # Formation big-data
-Exercice du Lundi 20 Janvier dans le dossier `tpLundi` et fichier [`ExoObjetPython.ipynb`](/tpLundi/ExoObjetPython.ipynb)
+Exercice du Lundi 20 Janvier -> [`ExoObjetPython.ipynb`](/tpLundi/ExoObjetPython.ipynb)
