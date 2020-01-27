@@ -5,4 +5,4 @@ Exercice du Mardi 21 Janvier -> [`ExoPython.ipynb`](/tpMardi/ExoPython.ipynb)
 
 Exercice du Vendredi 24 Janvier -> [`Dockerfile`](/tpVendredi/Dockerfile)
 
-Exercice du Lundi 27 Janvier -> [`Exo.ipynb`](/tpLundi2/Exo.ipynb)
+Exercice du Lundi 27 Janvier -> [`TP.ipynb`](/tpLundi2/TP.ipynb)
